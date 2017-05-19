@@ -116,7 +116,7 @@ image_external_callout_link:
 image_external_callout_text:
   - ""
 ---
-<p>Testing</p>
+<p>FART NUGGET</p>
 <h2>Committed to technology innovation</h2>
 Technology can do more than keep your everyday business running smoothly. It can drive your success. At World Wide Technology, we use a proven and innovative approach to help large public and private organizations discover, evaluate, architect and implement advanced technology.
 
