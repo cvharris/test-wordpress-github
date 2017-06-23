@@ -7,7 +7,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   https://www2-dev.wwt.com/all-blog/watch-tec37-webinar-zero-touch-success-windows-10-migrations-demand/
-published: true
+published: false
 hide_related_stuff:
   - "0"
 use_small_featured_image:
