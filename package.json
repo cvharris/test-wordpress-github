@@ -1,0 +1,7 @@
+{
+  "name": "wwt-com-content",
+  "version": "1.0.0",
+  "dependencies": {
+    "ui-primer": "^3.1.1"
+  }
+}
