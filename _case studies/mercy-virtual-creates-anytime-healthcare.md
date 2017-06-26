@@ -12,8 +12,6 @@ layout: case-study
 permalink: >
   https://www2-dev.wwt.com/case-study/mercy-virtual-creates-anytime-healthcare/
 published: true
-full_width_custom_template:
-  - "1"
 ---
 <section class="section relative overflow-x overflow-y image-background py-xl" style="background-image: url('https://www2-dev.wwt.com/wp-content/uploads/2017/03/Engagement_at_Home5-e1490295080970.jpg');">
     <div class="container mb-xl pb-xl">
