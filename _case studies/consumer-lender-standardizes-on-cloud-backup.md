@@ -11,6 +11,8 @@ layout: case-study
 permalink: >
   https://www2-dev.wwt.com/case-study/consumer-lender-standardizes-on-cloud-backup/
 published: true
+full_width_custom_template:
+  - "1"
 ---
 <h2>Challenge</h2>
 A rapidly growing consumer lender had the foresight to create <a href="https://www2-dev.wwt.com/hybrid-cloud/">hybrid cloud</a>-ready active/active data centers to improve reliability, performance and increase efficiency. This included <a href="https://www2-dev.wwt.com/partner/dell-emc/">Dell EMC’s</a> DPS Suite, Avamar and Data Domain data protection solutions. However, the customer had a variety of backup strategies among its data centers and sought WWT’s assistance to craft a comprehensive <a href="https://www2-dev.wwt.com/data-protection-and-backing-up-to-the-cloud/">data protection</a> strategy.
