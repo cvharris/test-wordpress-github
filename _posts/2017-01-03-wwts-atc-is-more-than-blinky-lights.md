@@ -38,7 +38,7 @@ I recently joined WWT as the hyper-converged infrastructure (HCI) practice lead 
 Sure, most VARs have “labs,” but previous experiences have tainted my view of these labs to only consist of gear that has blinky, three-year-old lights with failed drives. And the unfortunate part about this fact is that it has painted the same picture for OEM partners.
 
 Not so fast, my friend!
-
+<!-- derp -->
 Fortunately for us, our partners can see and feel the value our ATC brings to our customers, so we’re able to acquire the latest gear, often before general availability.
 
 In the last twelve months alone we’ve brought in $2 million worth of hardware. Yep – not a typo. TWO MILLION DOLLARS – and this is HCI hardware alone. This does not include the software licenses for the HCI gear nor does it include other technologies that don’t fall into the HCI realm. Many of the HCI technologies have also been integrated (or can be) around other aspects of the data center, such as software-defined networking, automation and orchestration and disaster recovery.
