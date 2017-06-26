@@ -8,20 +8,6 @@ layout: post
 permalink: >
   https://www2-dev.wwt.com/all-blog/watch-tec37-webinar-zero-touch-success-windows-10-migrations-demand/
 published: false
-hide_related_stuff:
-  - "0"
-use_small_featured_image:
-  - "0"
-custom_author:
-  - ""
-flexible_content_block:
-  - ""
-twitter_feed_use_wwt_mention:
-  - "0"
-twitter_feed_hashtags:
-  - ""
-twitter_feed_hashtags_to_ignore:
-  - ""
 ---
 <h2>Accelerate Windows 10 adoption and secure your organization</h2>
 Constant advances in software and firmware threats make devices running Windows 7 prime targets for cyber attackers. Windows 10 addresses these threats, from device protection through breach response. A Windows 7 to 10 migration is one of the best steps an organization can take to stay out of the news.

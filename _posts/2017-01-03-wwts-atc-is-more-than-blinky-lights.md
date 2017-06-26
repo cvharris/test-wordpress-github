@@ -8,20 +8,6 @@ layout: post
 permalink: >
   http://localhost:8888/all-blog/wwts-atc-is-more-than-blinky-lights/
 published: true
-hide_related_stuff:
-  - "0"
-use_small_featured_image:
-  - "0"
-custom_author:
-  - ""
-flexible_content_block:
-  - ""
-twitter_feed_use_wwt_mention:
-  - "0"
-twitter_feed_hashtags:
-  - ""
-twitter_feed_hashtags_to_ignore:
-  - ""
 ---
 <h2>WWT’s HCI practice lead discusses HCI technology in the ATC and why you should use the ATC for testing</h2>
 With every executive briefing and workshop that I participate in that includes a tour of our Advanced Technology Center (ATC), I see the same look of amazement that I first experienced when joining WWT on the faces of our attendees. Whether they are customers or partners, their body language transformation from the beginning to the end of the tour is very noticeable and goes along these lines:
