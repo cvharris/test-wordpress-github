@@ -20,6 +20,6 @@ In evaluating the requirements to ensure data protection of their data sets in t
 WWT configured 100TB of cloud storage via Virtustream Storage Cloud. Then onsite with the customer, WWT configured a comparable cloud storage solution with another top tier provider. This allowed the customer to judge the cost between the two platforms.
 
 In this instance, the Virtustream solution best met the customer’s needs. WWT and the Dell EMC team also provided analysis to prove that utilizing Data Domain to control the tiering would provide superior data reduction capabilities of the customer data sets and proving the advantages of using Data Domain Cloud Tier to Virtustream.
-<!-- DERP! -->
+
 <h2>Conclusion</h2>
 By providing the customer with several options and empirical data, WWT enabled the customer to make an informed decision. The solution is currently being initiated, and with WWT’s support and expertise, the organization is taking full advantage of its hybrid cloud infrastructure.
