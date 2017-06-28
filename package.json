@@ -2,6 +2,12 @@
   "name": "wwt-com-content",
   "version": "1.0.0",
   "dependencies": {
+    "font-awesome": "4.7.0",
+    "load-grunt-tasks": "3.3.0",
+    "grunt": "1.0.1",
+    "grunt-contrib-connect": "~1.0.2",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-watch": "latest",
     "ui-primer": "^3.1.1"
   }
 }
