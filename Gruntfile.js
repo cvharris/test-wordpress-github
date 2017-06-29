@@ -34,7 +34,9 @@ module.exports = function (grunt) {
         options: {
           port: 3010,
           livereload: true,
-          open: true
+          open: {
+            appName: 'Google Chrome'
+          }
         },
       },
     },
