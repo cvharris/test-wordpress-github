@@ -20,7 +20,7 @@ module.exports = function (grunt) {
           'node_modules/font-awesome/less/font-awesome.less',
           'node_modules/ui-primer/src/ui-primer.less',
         ],
-        dest: 'app.css',
+        dest: 'styles/app.css',
         options: {
           banner: '/*\n DON\'T EDIT THIS FILE SILLY! \n It is generated dynamically. Anything you change here will be lost. \n*/\n',
           compress: true,
@@ -28,6 +28,18 @@ module.exports = function (grunt) {
         }
       }
     },
+
+   nunjucks: {
+     options: {
+       data: "{}",
+       paths: ['partials', '/']
+     },
+     render: {
+       files: {
+         'index.html': ['partials/main.html']
+       }
+     }
+   },
 
     connect: {
       server: {
@@ -54,5 +66,5 @@ module.exports = function (grunt) {
   });
 
   // ============= // CREATE TASKS ========== //
-  grunt.registerTask('serve', [ 'less', 'connect', 'watch' ])
+  grunt.registerTask('serve', [ 'less', 'nunjucks', 'connect', 'watch' ])
 };

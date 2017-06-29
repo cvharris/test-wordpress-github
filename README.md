@@ -13,11 +13,11 @@ This project requires [node](https://nodejs.org/en/download/) and [git](https://
 
 This repo makes use of a plugin that syncs what's on `master` in Github with our Wordpress website. Use the 'test page' to edit your html, then when it looks good add it to the *.md file it came from.
 
-The 'test page' is `index.html` and allows you to work on HTML of a single page or post one at a time. It has the website's header and footer handy so it is helpful to visualize the effects of your changes
+The 'test page' is `post-editing.html` and allows you to work on HTML of a single page or post one at a time. It has the website's header and footer handy so it is helpful to visualize the effects of your changes
 
 1. Open a post or page under one of the folders like `_posts` or `_pages`
 2. Copy the HTML portion of the *.md. The top part with two `---` is YML frontmatter which configures post metadata
-3. Paste the HTML in between the `<main></main>` in `index.html`
+3. Paste the HTML in between the `<main></main>` in `post-editing.html`
 4. Before starting new work, create a new branch off master. Name the branch 1-3 hyphenated words describing the post. For instance: `git checkout -b lifecycle-page-changes`, changing 'lifecycle-page-changes' to whatever you want the branch name to be
 5. Go to http://localhost:3010 (should alaready be open if you did `grunt serve`) and you should see the post
 6. (Make all file changes here)
@@ -25,15 +25,15 @@ The 'test page' is `index.html` and allows you to work on HTML of a single page 
 8. Add the files to git, then commit them to the branch you are on
 9. Publish your branch to Github 
 
-## Development Tip: Use Chrome DevTools
+<!-- ## Development Tip: Use Chrome DevTools
 
 Arguably, th most handy tool any web developer has is Chrome's DevTools. Learn to rely on it to make quick tweaks to HTML and CSS in order to make development and troubleshooting easier and faster.
 
 1. In Chrome, right click anywhere on a page and select 'Inspect'
 2. Click on the Sources tab and right-click in the list's open space, select Add Folder To Workspace
 3. Select the folder for this project, called `wwt-com-content`
-4. Now open the cloud-icon that says 'localhost:3010' and right-click on '(index)'. Select 'Map File to System Resource'
-5. Now click on Elements tab. Changing any of the HTML and pressing Cmd + S will save the `index.html` from Chrome
+4. Now open the cloud-icon that says 'localhost:3010' and right-click on '(index)'. Select 'Map File to System Resource', then click on the 
+5. Now click on Elements tab. Changing any of the HTML and pressing Cmd + S will save the `post-editing.html` from Chrome -->
 
 ## Using VSCode
 
