@@ -45,8 +45,9 @@ It's easy to use git in VSCode. Click on the 3rd button in the left sidebar, whi
 
 1. If you have saved changes to a file they will show up in the list.
 2. To `git add` files in order to commit them, hover over the file and click the '+' icon
-3. To `git commit` the files to your new branch, type a commit message describing the changes in the text field with 'Message' in the placeholder, then hit Enter
-4. To 
+3. To `git commit` the files to your new branch, type a commit message describing the changes in the text field with 'Message' in the placeholder, then click the :heavy_check_mark: icon
+4. To publish your branch and changes to Github, click the '...' icon above the Message textfield to the top-right, then select Publish Branch, select origin.
+5. You can now see your changes out on Github!
 
 ### Extensions
 
