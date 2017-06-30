@@ -1,5 +1,6 @@
 node_modules/
 .DS_Store
 
+index.html
 app.css
 app.css.map
