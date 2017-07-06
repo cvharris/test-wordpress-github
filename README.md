@@ -1,5 +1,4 @@
-# wwt-com-content
-Post and Page content for the Corporate Website
+# testing-wordpress-github
 
 ## Setup
 This project requires [node](https://nodejs.org/en/download/) and [git](https://git-scm.com/downloads).
