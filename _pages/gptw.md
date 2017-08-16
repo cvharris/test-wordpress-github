@@ -10,7 +10,7 @@ published: true
 ---
 <section id="top" class="section relative">
   <div class="background-image-container w-100">
-    <img class="w-100" src="https://www2.wwt.com/wp-content/uploads/2017/08/WWT-2016-144.jpg" alt="Papa John's TV app for ordering pizza" />
+    <img class="block w-100" src="https://www2.wwt.com/wp-content/uploads/2017/08/WWT-2016-144.jpg" alt="Papa John's TV app for ordering pizza" />
   </div>
   <div class="absolute mb-xl py-xl w-100 text-center cover">
     <h1 class="fs-xl lh-1 fw-700 left mw-tablet mx-a mt-0 mb-xl white fs-xl-m my-xl-m pb-xl pb-xl-m caps" style="text-shadow: 0 0 2px #555555;">Great Place<br class="display-none-ns" /><span class="display-none inline-ns px-md"></span>To Work!</h1>
@@ -37,7 +37,7 @@ published: true
         <p class="fs-md mw-phablet mx-a">Founded in 1990, we’ve grown from a small product reseller into a technology solution provider with more than $9 billion in annual revenue and over 4,000 employees. We serve the technology needs of large public and private organizations around the globe and feel the keys to our success are our company culture and the commitment and dedication of our employees.</p>
         <div class="picture-container flex flex-wrap mt-xl">
           <div class="picture my-md flex-100">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox="ghq" href="https://www2.wwt.com/wp-content/uploads/2017/08/GHQ_Building_WWT_000-1800x1200.jpg">
                 <img class="block w-100" height="200" style="object-fit: cover" src="https://www2.wwt.com/wp-content/uploads/2017/08/GHQ_Building_WWT_000-1800x1200.jpg" />
               </a>
@@ -195,49 +195,49 @@ published: true
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox href="https://www2.wwt.com/wp-content/uploads/2017/08/SV_in_STL_-_glass.jpg">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/SV_in_STL_-_glass.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/SV_in_STL_-_glass.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Silicon Valley of the Midwest</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" target="_blank" href="https://www.youtube.com/playlist?list=PLckKfxswQeZsnWgxRjxJTdQ89z1gArKYU">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Matt-Sebek-700x394.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Matt-Sebek-700x394.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Video Series: 37 Questions with a WWT Expert</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox href="https://vimeo.com/110492998">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Joy_of_Coding-700x467.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Joy_of_Coding-700x467.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">ASL - Joy of Coding</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox href="https://www.youtube.com/watch?v=LMQq95GdHuk">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Supply-Chain-Operations-700x394.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Supply-Chain-Operations-700x394.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Supply Chain of Operations</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox href="https://www.youtube.com/watch?v=IvHnsjubqFY&t=23s">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/BSM-700x394.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/BSM-700x394.jpg" />
             </a>
               <div class="caption bg-white fs-md p-sm">Bloomberg Square Mile Relay Run</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" target="_blank" href="https://wwt.rev.vbrick.com/#/videos/c31d4cff-59cf-4362-aa2f-7fced0be02ac  ">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/IT-Picnic-700x394.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/IT-Picnic-700x394.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">IT Division Picnic</div>
             </div>
@@ -253,87 +253,87 @@ published: true
         <p class="fs-md mw-phablet mx-a">Our engineers are constantly developing new ways to integrate technology, test products as they hit the market and define new architectures that address today's biggest challenges—like defending against security threats or optimizing big data environments. Our Advanced Technology Center and Integration Technology Centers provide collaborative spaces for all this to happen.</p>
         <div class="picture-container flex flex-wrap mt-xl">
           <div class="picture my-md flex-100 w-100">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox href="https://www.youtube.com/watch?v=luEgDpdkFtM&t=55s">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/ATC-Connect-700x394.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/ATC-Connect-700x394.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Meet ATC Connect: The Mobile WWT Experience</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" target="_blank" href="https://www2.wwt.com/case-study/mercy-virtual-creates-anytime-healthcare/ ">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/04/mercy-virtual-creates-anytime-healthcare.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/04/mercy-virtual-creates-anytime-healthcare.jpg" />
             </a>
               <div class="caption bg-white fs-md p-sm">Case Study: Mercy Virtual Creates Anytime Healthcare</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox href="https://www.youtube.com/watch?v=yZVwZBzWruY&t=3s">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Patient-Central-700x394.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Patient-Central-700x394.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Patient Central App</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" target="_blank" href="https://www2.wwt.com/case-study/iot-platform-creates-security-against-wmds/ ">
-                <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/07/hotzone-header.jpg" />
+                <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/07/hotzone-header.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Case Study: WWT Asynchrony Labs Creates IoT Platform for a Safer World</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" target="_blank" href="https://wwt.rev.vbrick.com/#/videos/62719071-b189-4460-ae03-b3cae0960e59">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/innovation-video-700x394.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/innovation-video-700x394.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Innovation Video</div>
             </div>
           </div> 
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" target="_blank" href="https://www.youtube.com/playlist?list=PLckKfxswQeZuaWS17bG0zhvNn0Sc1EQL_">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/TEC37-logo.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/TEC37-logo.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Video Series: TEC37 Webinars</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox href="https://www.youtube.com/watch?v=JF7WdpDh-dc">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Comet-700x394.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Comet-700x394.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">A Full Lifecycle Approach With Comet</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox href="https://www.youtube.com/watch?v=QHupIthlBek">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2015/03/lifecycle-services-3-e1477515091205.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2015/03/lifecycle-services-3-e1477515091205.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Lifecycle Services Video</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox href="https://www.youtube.com/watch?v=yZVwZBzWruY&t=3s">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/EA-700x394.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/EA-700x394.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Introducing EA+</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" target="_blank" href="https://wwt.rev.vbrick.com/#/">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Wayfinding-2-700x394.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Wayfinding-2-700x394.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Wayfinding System in GHQ</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox="hackathon" href="https://www2.wwt.com/wp-content/uploads/2017/08/Hackathon-1800x819.jpg">
                 <img class="block w-100" height="200" style="object-fit: cover" src="https://www2.wwt.com/wp-content/uploads/2017/08/Hackathon-1800x819.jpg" />
               </a>
@@ -351,25 +351,25 @@ published: true
         <p class="fs-md mw-phablet mx-a">Every WWT employee is offered the opportunity to get involved in their community through our Day of Caring initiative. We also encourage employees to participate in other community outreach programs through our Global Community Impact program, supporting youth development through STEM events and mentorships, team building outings, and other community activities. Our goal is to bring positive change for the communities we cherish.</p>
         <div class="picture-container flex flex-wrap mt-xl">
           <div class="picture my-md flex-100 w-100">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox href="https://www.youtube.com/watch?v=luEgDpdkFtM&t=55s">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/STEM-Impact-700x394.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/STEM-Impact-700x394.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">STEM Initiatives</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox href="https://www.youtube.com/watch?v=e_9X_LUmAH8&feature=youtu.be">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Giving-Back-Video-700x394.png" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Giving-Back-Video-700x394.png" />
               </a>
               <div class="caption bg-white fs-md p-sm">Giving Back Video</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox="leadership" href="https://www2.wwt.com/wp-content/uploads/2017/08/image001.jpg" data-caption="Leadership Meeting 2017 Charity Event - Build Bikes for local Charities: Jefferson Franklin Community Action Corporation, The Little Bit Foundation, Great Circle, Big Brothers Big Sisters, Kingdom House, &Toys for Tots">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/image001.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/image001.jpg" />
               </a>
               <a class="display-none" data-fancybox="leadership" href="https://www2.wwt.com/wp-content/uploads/2017/08/image003.jpg" data-caption="WWT did not stop at just sending the completed bikes to local charities.  On each table, there was a sheet of paper that said “Our Charity Selection”.  Each team was asked to select a charity of their choice. WWT donated $3,000 for the winner of this Bike Build Challenge, $2,500 for second place and $2,000 for third place, $1,500 for fourth and $1000 for fifth!">
                 <img src="https://www2.wwt.com/wp-content/uploads/2017/08/image003.jpg" />
@@ -387,41 +387,41 @@ published: true
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" target="_blank" href="https://www2.wwt.com/all-blog/students-visit-wwt-hq-for-hour-of-code-event/">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2015/12/wwt-asynchrony-labs-hosts-hour-of-code-for-local-students-3.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2015/12/wwt-asynchrony-labs-hosts-hour-of-code-for-local-students-3.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Annual 'Hour of Code' Event</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" target="_blank" href="https://www2.wwt.com/all-blog/how-pedal-the-cause-works-to-create-a-world-without-cancer/">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2016/10/how-pedal-the-cause-works-to-create-a-world-without-cancer-4.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2016/10/how-pedal-the-cause-works-to-create-a-world-without-cancer-4.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">Pedal the Cause Participation</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" target="_blank" href="https://www2.wwt.com/all-blog/celebrating-international-womens-day/">
-                <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/03/celebrating-international-womens-day-21.jpg" />
+                <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/03/celebrating-international-womens-day-21.jpg" />
             </a>
               <div class="caption bg-white fs-md p-sm">Celebrating International Women's Day</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" target="_blank" href="https://www2.wwt.com/all-blog/wwt-supervisor-honored-with-esgr-patriot-award/ ">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/01/wwt-supervisor-honored-with-esgr-patriot-award-3-e1484664879813.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/01/wwt-supervisor-honored-with-esgr-patriot-award-3-e1484664879813.jpg" />
               </a>
               <div class="caption bg-white fs-md p-sm">WWT Honored with ESGR Patriot Award</div>
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox="earth" href="https://www2.wwt.com/wp-content/uploads/2017/08/Earth-Day-1-1800x1350.jpg">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Earth-Day-1-700x525.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/Earth-Day-1-700x525.jpg" />
               </a>
               <a class="display-none" data-fancybox="earth" href="https://www2.wwt.com/wp-content/uploads/2017/08/Earth-Day-2.jpg">
               <img src="https://www2.wwt.com/wp-content/uploads/2017/08/Earth-Day-2.jpg" />
@@ -433,9 +433,9 @@ published: true
             </div>
           </div>
           <div class="picture my-md flex-50">
-            <div class="hover-shadow mx-sm">
+            <div class="hover-shadow mx-sm pointer">
               <a class="block" data-fancybox="caring" href="https://www2.wwt.com/wp-content/uploads/2017/08/image013.jpg" data-caption="Examples of WWT's Days of Caring">
-              <img class="w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/image013.jpg" />
+              <img class="block w-100" style="height: 200px; object-fit: cover;" src="https://www2.wwt.com/wp-content/uploads/2017/08/image013.jpg" />
               </a>
               <a class="display-none" data-fancybox="caring" href="https://www2.wwt.com/wp-content/uploads/2017/08/image002.jpg" data-caption="Some of the Commercial Central Sales Operations team spent Monday at Crisis Nursery holding babies, playing dress up with toddlers, and even doing yard work for the property. We were happy to use our #DayOfCaringto help put a smile on their little faces and help the organization in any way we could - while getting quality time in with our teammates and friends too!">
                 <img src="https://www2.wwt.com/wp-content/uploads/2017/08/image002.jpg" />
